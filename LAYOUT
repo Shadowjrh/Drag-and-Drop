@@ -1,0 +1,44 @@
+LAYOUT
+Level 1: Sorting Healthy vs. Unhealthy Foods
+	Objective: Drag and drop items into the correct categories: "Healthy" or "Unhealthy."
+
+	Setup:
+•	Display a variety of food items (images/icons) on the screen.
+•	Create two zones labelled "Healthy" and "Unhealthy."
+
+	Gameplay:
+•	Players drag each food item to the correct zone.
+•	Points are awarded for correct placements.
+•	A timer can add urgency and challenge.
+
+	End of Level 1:
+•	Display the player's score.
+•	If the score exceeds a certain threshold, the player advances to Level 2.
+
+Level 2: Building a Balanced Meal
+	Objective: Create a balanced meal with the given food options.
+
+	Setup:
+•	Present various food groups (fruits, vegetables, proteins, grains, dairy) on the screen.
+•	Provide a plate or tray graphic where players place selected items.
+
+	Gameplay:
+•	Players drag food items onto the plate to create a meal.
+•	Points are awarded based on the meal created, comparing to an ideal healthy meal plate.
+
+	End of Level 2:
+•	Display the cumulative score.
+•	Provide feedback on the meal's balance and nutritional value.
+
+ 
+Level 1: Sorting Healthy vs. Unhealthy Foods
+•	Objective: Simple and educational.
+•	Setup: Easy to implement with drag-and-drop features.
+•	Gameplay: Points and timer add fun and challenge.
+•	End: Clear transition to Level 2 based on score.
+
+Level 2: Building a Balanced Meal
+•	Objective: More complex and educational.
+•	Setup: Good for teaching food groups and balance.
+•	Gameplay: Encourages learning about balanced meals.
+•	End: Feedback and cumulative score enhance the learning experience. 
